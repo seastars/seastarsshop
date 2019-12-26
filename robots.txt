@@ -1,5 +1,2 @@
 
-User-agent: *
-Disallow:
-
 Sitemap: https://www.seastarsshop.com/sitemap.xml
