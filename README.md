@@ -1,2 +1,2 @@
 # seastarsshop
-seastarsshop
+https://www.seastarsshop.com/
