@@ -8,4 +8,12 @@
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
+   <url>
+        <loc>https://www.seastarsshop.com/privacy/</loc>
+        <lastmod>2019-12-18</lastmod>
+    </url>
+   <url>
+        <loc>https://www.seastarsshop.com/ads/</loc>
+        <lastmod>2020-01-24</lastmod>
+    </url>
 </urlset>
