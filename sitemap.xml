@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+    http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">  
+   <url>
         <loc>https://www.seastarsshop.com/</loc>
-        <lastmod>2019-12-18</lastmod>
+        <lastmod>2012-12-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -13,7 +16,7 @@
         <lastmod>2019-12-18</lastmod>
     </url>
    <url>
-        <loc>https://www.seastarsshop.com/404.html</loc>
+        <loc>https://www.seastarsshop.com/404</loc>
         <lastmod>2019-12-18</lastmod>
     </url>
    <url>
