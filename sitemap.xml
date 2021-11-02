@@ -6,21 +6,21 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml">  
    <url>
-        <loc>https://www.seastarsshop.com/</loc>
+        <loc>https://seastarsshop.com/</loc>
         <lastmod>2012-12-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
    <url>
-        <loc>https://www.seastarsshop.com/privacy/</loc>
+        <loc>https://seastarsshop.com/privacy/</loc>
         <lastmod>2019-12-18</lastmod>
     </url>
    <url>
-        <loc>https://www.seastarsshop.com/404</loc>
+        <loc>https://seastarsshop.com/404</loc>
         <lastmod>2019-12-18</lastmod>
     </url>
    <url>
-        <loc>https://www.seastarsshop.com/ads/</loc>
+        <loc>https://seastarsshop.com/ads/</loc>
         <lastmod>2020-01-25</lastmod>
     </url>
 </urlset>
