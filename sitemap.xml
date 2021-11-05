@@ -11,12 +11,16 @@
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
-   <url>
-        <loc>https://seastarsshop.com/privacy/</loc>
-        <lastmod>2019-12-18</lastmod>
+    <url>
+        <loc>https://seastarsshop.com/contact/</loc>
+        <lastmod>2012-12-22</lastmod>
     </url>
    <url>
         <loc>https://seastarsshop.com/404</loc>
+        <lastmod>2019-12-18</lastmod>
+    </url>
+    <url>
+        <loc>https://seastarsshop.com/privacy/</loc>
         <lastmod>2019-12-18</lastmod>
     </url>
    <url>
